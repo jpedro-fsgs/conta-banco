@@ -20,7 +20,6 @@ public class ContaTerminal {
 
         System.out.println("Digite o nome do cliente: ");
         nome_cliente = scanner.nextLine();
-        nome_cliente = "João Pedro";
 
         System.out.println("Digite o saldo: ");
         saldo = scanner.nextFloat();
